@@ -64,8 +64,8 @@ CustomMedia is a custom field for media selection, developed for use in Joomla. 
 
 **Exemplo de utilização (Português):**
 
-Aqui está um exemplo de como utilizar o campo CustomMedia em um formulário Joomla. Este exemplo demonstra a utilização do campo CustomMedia em um formulário Joomla. O campo permite selecionar uma mídia, como uma imagem ou vídeo, dentro do ambiente do Joomla. Ele é configurado como obrigatório (required) e possui uma etiqueta (label) e uma descrição (description) para orientar o usuário na seleção da mídia desejada.
+Este exemplo demonstra a utilização do campo CustomMedia em um formulário Joomla. O campo permite selecionar uma mídia, como uma imagem ou vídeo, dentro do ambiente do Joomla. Ele é configurado como obrigatório (required) e possui uma etiqueta (label) e uma descrição (description) para orientar o usuário na seleção da mídia desejada.
 
 **Usage example (English):**
 
-Here is an example of how to use the CustomMedia field in a Joomla form. This example demonstrates the usage of the CustomMedia field in a Joomla form. The field allows selecting a media, such as an image or video, within the Joomla environment. It is configured as required and has a label and description to guide the user in selecting the desired media.
+HThis example demonstrates the usage of the CustomMedia field in a Joomla form. The field allows selecting a media, such as an image or video, within the Joomla environment. It is configured as required and has a label and description to guide the user in selecting the desired media.
