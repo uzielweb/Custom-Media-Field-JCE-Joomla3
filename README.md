@@ -14,7 +14,7 @@ O CustomMedia é um campo personalizado para seleção de mídia, desenvolvido p
 
 **Instruções de uso:**
 
-1. Extraia o arquivo **custommedia.php** na pasta **fields** da sua extensão desejada.
+1. Extraia o arquivo **custommedia.php** na pasta **fields** da tua extensão desejada.
 
 ---
 
