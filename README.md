@@ -14,14 +14,7 @@ Características principais:
 
 **Instruções de uso:**
 
-1. Faça o download do pacote do CustomMedia e extraia os arquivos em uma pasta no diretório de extensões do Joomla.
-2. Acesse o painel de administração do Joomla e vá para a seção "Gerenciador de Extensões".
-3. Na guia "Instalar", clique em "Fazer Upload de Arquivo" e selecione o arquivo ZIP do CustomMedia.
-4. Após a instalação bem-sucedida, vá para a seção "Gerenciador de Campos Personalizados" no painel de administração.
-5. Crie um novo campo personalizado e selecione "CustomMedia" como o tipo de campo.
-6. Configure as opções do campo, como rótulo, tamanho, tipo de mídia permitida, etc.
-7. Adicione o campo personalizado ao seu formulário, seja através do Editor de Artigos ou de um componente personalizado.
-8. Salve as alterações e visualize o formulário em seu site Joomla.
+1. Extraia o arquivo **custommedia.php** na pasta **fields** de tua extensão desejada
 
 **Description (English):**
 
@@ -41,14 +34,7 @@ Key Features:
 
 **Usage Instructions:**
 
-1. Download the CustomMedia package and extract the files into a folder in the Joomla extensions directory.
-2. Access the Joomla administration panel and go to the "Extensions Manager" section.
-3. In the "Install" tab, click on "Upload Package File" and select the CustomMedia ZIP file.
-4. After a successful installation, go to the "Custom Fields Manager" section in the administration panel.
-5. Create a new custom field and select "CustomMedia" as the field type.
-6. Configure the field options, such as label, size, allowed media type, etc.
-7. Add the custom field to your form, either through the Article Editor or a custom component.
-8. Save the changes and preview the form on your Joomla website.
+1. Unzip the *custommedia.php** file into **fields** folder in your desired extension
 
 **Note:** The CustomMedia field requires the installation of the JCE editor for full functionality. If JCE is not installed, the field will fallback to the default Joomla media field.
 
