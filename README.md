@@ -34,7 +34,7 @@ Key Features:
 
 **Usage Instructions:**
 
-1. Unzip the *custommedia.php** file into **fields** folder in your desired extension
+1. Unzip the *custommedia.php* file into *fields* folder in your desired extension
 
 **Note:** The CustomMedia field requires the installation of the JCE editor for full functionality. If JCE is not installed, the field will fallback to the default Joomla media field.
 
