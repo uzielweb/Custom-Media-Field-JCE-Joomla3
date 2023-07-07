@@ -23,7 +23,7 @@ Características principais:
 7. Adicione o campo personalizado ao seu formulário, seja através do Editor de Artigos ou de um componente personalizado.
 8. Salve as alterações e visualize o formulário em seu site Joomla.
 
-**Descrição (Inglês):**
+**Description (English):**
 
 ### CustomMedia - Custom Field for Media Selection (Joomla)
 
@@ -58,13 +58,14 @@ Key Features:
 Aqui está um exemplo de como utilizar o campo CustomMedia em um formulário Joomla:
 Este exemplo demonstra a utilização do campo CustomMedia em um formulário Joomla. O campo permite selecionar uma mídia, como uma imagem ou vídeo, dentro do ambiente do Joomla. Ele é configurado como obrigatório (required) e possui uma etiqueta (label) e uma descrição (description) para orientar o usuário na seleção da mídia desejada.
 
-**Usage example (Inglês):**
+**Usage example (English):**
 
 Here is an example of how to use the Custommedia field in a Joomla form:
 This example demonstrates the usage of the CustomMedia field in a Joomla form. The field allows selecting a media, such as an image or video, within the Joomla environment. It is configured as required and has a label and description to guide the user in selecting the desired media.
 
 
-**Formulário XML:**
+**Formulário XML: / XML FORM:**
+
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -72,7 +73,7 @@ This example demonstrates the usage of the CustomMedia field in a Joomla form. T
     <fields name="params">
         <fieldset name="custommedia_settings" label="CustomMedia Settings" description="Configure the options for the CustomMedia field.">
             <field
-                name="custommedia_field"
+                name="changeit_mudeisso"
                 type="custommedia"
                 label="Select a media"
                 description="Select an image or video."
